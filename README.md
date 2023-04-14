@@ -5,13 +5,13 @@
 This project focuses on data cleaning techniques using various SQL queries. The dataset used for this project contains over 56,000 rows of raw data on the Nashville housing market between 2013 and 2016.
 In this project I’ve performed the following:
 
-1.	Collected data from Kaggle
+1.	Collected data from [Kaggle](https://www.kaggle.com/tmthyjames/nashville-housing-data)
 
 2.	Imported the dataset into Microsoft SQL Server
 
 3.	Cleaned and prepared the data for analysis
 
-4.	Exported my code to GitHub for sharing and collaboration
+4.	Exported my code to GitHub for sharing and collaboration.
 
 Now for the main part, cleaning and preparing the data for analysis, I have performed the following tasks:
 
